@@ -34,7 +34,7 @@ const ThemeSwitch = () => {
                 stroke="currentColor"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth="1.5"
+                strokeWidth="2"
                 viewBox="0 0 24 24"
                 className="h-4 w-4"
               >
@@ -61,7 +61,7 @@ const ThemeSwitch = () => {
                 stroke="currentColor"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth="1.5"
+                strokeWidth="2"
                 viewBox="0 0 24 24"
                 className="h-4 w-4"
               >
@@ -96,7 +96,7 @@ const ThemeSwitch = () => {
                 stroke="currentColor"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth="1.5"
+                strokeWidth="2"
                 viewBox="0 0 24 24"
                 className="h-4 w-4"
               >

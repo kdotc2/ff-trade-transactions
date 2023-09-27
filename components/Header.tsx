@@ -6,7 +6,7 @@ type Props = {}
 function Header({}: Props) {
   return (
     <div>
-      <div className="m-4 flex justify-between h-10">
+      <div className="m-4 flex h-10 justify-between">
         <div className="flex rounded-xl">FF Trade Transactions</div>
         <div className="">
           <ThemeSwitch />
